@@ -1,2 +1,21 @@
-# privacy-policy
-Instagramのフォロー関係を安全に分析できるアプリです。  ZIPファイルを選ぶだけで、 フォローバックしていないユーザーや相互フォローを簡単に確認できます。  ■ 主な機能 ・フォローバックしていない人の一覧表示 ・相互フォローの確認 ・フォロワー（未フォロー）の確認 ・Instagramプロフィールをワンタップで開く  ■ 特徴 ・ログイン不要 ・通信なし ・完全ローカル処理 ・データは外部に送信されません  ■ 使い方 1. Instagramからデータ（ZIP）をダウンロード 2. 本アプリでZIPファイルを選択 3. 自動でフォロー関係を解析  ■ 安全性について 本アプリはユーザーのデータを収集・保存・外部送信しません。 すべての処理は端末内で完結します。  
+# Privacy Policy
+
+This app does not collect, store, or share any personal information.
+
+- No data is transmitted externally
+- All processing is done locally on the device
+- No login is required
+
+This app is not affiliated with Instagram.
+
+---
+
+# プライバシーポリシー
+
+本アプリは、ユーザーの個人情報を収集・保存・外部送信することはありません。
+
+・インターネット通信を行いません  
+・すべての処理は端末内で完結します  
+・ログイン不要です  
+
+本アプリはInstagramの公式アプリではありません。
